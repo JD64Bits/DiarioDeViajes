@@ -7,3 +7,8 @@
 - Bungee Jumping en el Puente de Kawarau: Si te gustan los deportes extremos, no puedes dejar de hacer bungee jumping en el famoso Puente de Kawarau, donde nació este deporte. La caída libre de 43 metros sobre el río es una experiencia llena de adrenalina.
 - Senderismo en el Routeburn Track: El Routeburn Track es uno de los Great Walks de Nueva Zelanda, y te llevará a través de paisajes impresionantes, como bosques tropicales, montañas cubiertas de nieve y lagos cristalinos. Es una de las mejores maneras de explorar la naturaleza de Queenstown.
 - Paseo en barco por el Lago Wakatipu: Aprovecha la belleza del lago Wakatipu con un paseo en barco tradicional, como el TSS Earnslaw, un barco de vapor que ofrece vistas panorámicas de las montañas y de la ciudad mientras te transporta al Walter Peak High Country Farm, donde puedes disfrutar de un almuerzo típico.
+
+## Comidas Típicas
+- Hangi: El hangi es un plato tradicional maorí que se cocina de manera única, enterrado en un hoyo con piedras calientes. Se prepara con carne (generalmente cerdo, pollo o cordero), verduras y patatas. Es una experiencia culinaria muy representativa de la cultura local.
+- Pavlova: La pavlova es un postre emblemático de Nueva Zelanda, aunque también es popular en Australia. Se trata de una base de merengue crujiente por fuera y suave por dentro, cubierta con frutas frescas como kiwi, fresas y maracuyá.
+- Fish and Chips: El clásico fish and chips es muy popular en Queenstown. Aquí puedes disfrutar de pescado fresco localmente, como el hoki o el blue cod, acompañado de papas fritas crujientes. Perfecto para una comida rápida y sabrosa mientras paseas por la ciudad.
