@@ -12,3 +12,6 @@
 - Tajín: Un guiso marroquí tradicional que se cocina en un recipiente de barro llamado tajín. Puede incluir cordero, pollo, verduras, frutas secas (como albaricoques o ciruelas) y una variedad de especias como comino, cúrcuma y canela.
 - Cuscús: Un plato a base de sémola de trigo que se sirve con estofado de verduras, carne (como cordero o pollo) y se adereza con especias. Es uno de los platos más populares de la región.
 - Harira: Una sopa espesa hecha con lentejas, garbanzos, tomate, cebolla, cilantro y especias. Es tradicionalmente consumida durante el Ramadán para romper el ayuno, pero también es común en cualquier época del año.
+
+## Mejor redaccion
+- Marrakech, conocida como la "Ciudad Roja" por el color de sus edificios y murallas, es uno de los destinos más fascinantes de Marruecos. Esta ciudad, que combina la historia y la modernidad, te cautivará con su vibrante Medina, sus animados mercados, y su arquitectura única.
