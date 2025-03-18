@@ -1,1 +1,4 @@
 # Queenstown, Nueva Zelanda
+
+## Descripción
+- Queenstown es una pequeña ciudad ubicada en la Isla Sur de Nueva Zelanda, rodeada por las montañas Remarkables y el hermoso lago Wakatipu. Famosa por ser la "capital mundial de la aventura", Queenstown es un destino ideal para los viajeros que buscan adrenalina, paisajes impresionantes y una atmósfera acogedora. Con su vibrante vida nocturna, sus actividades al aire libre y su entorno natural único, es el lugar perfecto para quienes desean combinar aventura con belleza escénica. Desde los deportes extremos hasta la relajación en spas de lujo, Queenstown ofrece algo para todos.
