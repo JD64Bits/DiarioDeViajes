@@ -12,3 +12,6 @@
 - Hangi: El hangi es un plato tradicional maorí que se cocina de manera única, enterrado en un hoyo con piedras calientes. Se prepara con carne (generalmente cerdo, pollo o cordero), verduras y patatas. Es una experiencia culinaria muy representativa de la cultura local.
 - Pavlova: La pavlova es un postre emblemático de Nueva Zelanda, aunque también es popular en Australia. Se trata de una base de merengue crujiente por fuera y suave por dentro, cubierta con frutas frescas como kiwi, fresas y maracuyá.
 - Fish and Chips: El clásico fish and chips es muy popular en Queenstown. Aquí puedes disfrutar de pescado fresco localmente, como el hoki o el blue cod, acompañado de papas fritas crujientes. Perfecto para una comida rápida y sabrosa mientras paseas por la ciudad.
+
+## Redacción Mejorada
+- Queenstown, ubicada en la isla sur de Nueva Zelanda, es un paraíso para los amantes de la naturaleza y la adrenalina. Con su impresionante paisaje rodeado por el lago Wakatipu y las montañas Remarkables, esta ciudad ofrece una mezcla perfecta de aventura, belleza escénica y cultura. Conocida como la "capital mundial de la aventura", Queenstown te invita a experimentar desde el emocionante bungee jumping hasta tranquilos paseos en barco por el lago. Además, es el punto de partida ideal para explorar los fiordos de Milford Sound y otros lugares naturales de la región.
