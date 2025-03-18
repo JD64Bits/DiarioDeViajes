@@ -14,3 +14,6 @@
 - Pescado Frito con Arroz con Coco: El pescado frito acompañado de arroz con coco es una de las comidas más tradicionales y deliciosas de la región. Este plato refleja la influencia caribeña en la gastronomía local, con pescado fresco de la región y arroz cocido con leche de coco, que le da un sabor único.
 - Cazuela de Mariscos: La cazuela de mariscos es un guiso tradicional que se prepara con mariscos frescos, como camarones, calamares y almejas, cocinados en una base de salsa de tomate y leche de coco. Es un plato lleno de sabor, ideal para los amantes de los frutos del mar.
 - Sancocho de Pescado: El sancocho de pescado es una sopa espesa y deliciosa hecha con pescado fresco, plátano, yuca, mazorca y otros ingredientes autóctonos. Este plato es muy común en las regiones costeras de Colombia y es perfecto para compartir con familia o amigos.
+
+## Redacción Mejorada
+- Santa Marta, una de las ciudades más emblemáticas de la Costa Caribe de Colombia, es un destino que ofrece una mezcla perfecta de historia, naturaleza y cultura. Fundada en 1525, Santa Marta es la ciudad más antigua de Colombia, y su ubicación privilegiada entre las montañas de la Sierra Nevada y las hermosas playas del Caribe la convierte en un lugar único para visitar.
