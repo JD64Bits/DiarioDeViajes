@@ -2,3 +2,9 @@
 
 ## Descripción
 - Santa Marta, ubicada en la costa caribeña de Colombia, es una ciudad que combina hermosos paisajes naturales con una rica historia y cultura. Fundada en 1525, es la ciudad más antigua de Colombia y cuenta con una ubicación privilegiada, rodeada por el Parque Nacional Natural Tayrona, las montañas de la Sierra Nevada de Santa Marta y las playas más exóticas del Caribe. Santa Marta es un destino ideal para los amantes de la naturaleza, el ecoturismo y los viajeros que buscan explorar tanto la historia colonial como los bellos parajes naturales.
+
+## Recomendaciones
+- Disfruta de las Playas de Santa Marta: La ciudad cuenta con playas como Playa Blanca y El Rodadero, ideales para nadar, relajarse y practicar deportes acuáticos. El Rodadero es una de las zonas más turísticas, con una gran oferta de restaurantes, bares y actividades en el mar.
+- Sube a la Quinta de San Pedro Alejandrino: Este es el lugar histórico donde murió el libertador Simón Bolívar en 1830. La Quinta de San Pedro Alejandrino es una finca colonial que se ha convertido en un museo, donde podrás aprender sobre la vida de Bolívar y la historia de la independencia de Colombia. También es un lugar ideal para disfrutar de sus jardines y la tranquilidad de sus espacios.
+- Explora el Parque de los Novios y el Centro Histórico: El Parque de los Novios es un lugar popular en Santa Marta, ideal para pasear y disfrutar de una buena comida. Alrededor del parque se encuentran varios bares, cafés y restaurantes. No olvides recorrer el Centro Histórico de Santa Marta, con su arquitectura colonial, la catedral, y la Plaza de Bolívar, que refleja el encanto de la ciudad.
+- Recorre Taganga: Taganga es un pequeño pueblo de pescadores que ha ganado popularidad por su ambiente relajado y su cercanía a las playas. Es el lugar perfecto para disfrutar de una tarde tranquila, practicar buceo o simplemente pasear por la bahía.
