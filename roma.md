@@ -12,3 +12,6 @@
  - Cacio e Pepe: Este es uno de los platos más tradicionales de la cocina romana, hecho con pasta, queso pecorino romano y pimienta negra. Es simple, pero delicioso, y refleja la esencia de la gastronomía italiana.
  - Carbonara: La carbonara es otro plato icónico de Roma. Se hace con pasta (normalmente spaghetti), guanciale (un tipo de tocino italiano), huevo, queso pecorino romano y pimienta negra. La mezcla resulta en una salsa cremosa y sabrosa.
  - Supplì: Los supplì son croquetas de arroz rellenas de salsa de tomate y mozzarella. Se fríen hasta quedar crujientes por fuera y son un delicioso bocadillo típico de Roma.
+
+ ## Redacción Mejorada
+ - Roma, la Ciudad Eterna, es un destino único donde la historia cobra vida en cada rincón. Con más de 2,500 años de historia, la ciudad te invita a explorar monumentos emblemáticos como el majestuoso Coliseo, el icónico Panteón y la fascinante Fontana di Trevi. Al caminar por sus calles, sentirás el peso de la antigua Roma mientras disfrutas de la modernidad vibrante que define la ciudad de hoy.
