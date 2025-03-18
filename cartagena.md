@@ -8,3 +8,6 @@
 
 ## Comidas tipicas
 - Algunas de sus comidas tipicas son: Arepa de huevo, Ceviche de camarones y el Arroz de coco.
+
+## Mejor redaccion
+- Santa Marta, la ciudad más antigua de Colombia, es un lugar lleno de historia, naturaleza y cultura. Ubicada en la costa del Caribe, ofrece a los visitantes una mezcla perfecta de hermosas playas, montañas impresionantes y un clima tropical. Desde el majestuoso Parque Tayrona hasta la histórica Ciudad Perdida, Santa Marta tiene algo para todos: amantes de la aventura, la historia y el descanso frente al mar. Además, su gastronomía única y sus cálidos habitantes hacen de esta ciudad un destino inolvidable.
