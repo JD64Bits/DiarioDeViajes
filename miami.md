@@ -12,3 +12,6 @@
 - Cubano: El sándwich cubano es un clásico de Miami. Se compone de pan cubano, cerdo asado, jamón, queso suizo, mostaza y pepinillos, prensado para una deliciosa mezcla de sabores. Es un plato tradicional que no te puedes perder en Little Havana.
 - Tostones: Los tostones son plátanos verdes fritos que se sirven como acompañamiento o aperitivo. Son crujientes y deliciosos, perfectos para acompañar otros platos de la gastronomía caribeña.
 - Ceviche: Dado su acceso al mar Caribe, Miami es el lugar ideal para disfrutar del ceviche, un plato de mariscos frescos marinados en jugo de lima, cebolla, cilantro y otros condimentos. Se sirve frío, y es una opción refrescante para el calor de la ciudad.
+
+## Redacción Mejorada
+- Miami, una ciudad dinámica ubicada en el sur de la Florida, es un paraíso tanto para quienes buscan relajarse bajo el sol como para los amantes de la cultura y la vida nocturna. Con sus playas de arena blanca, su clima cálido durante todo el año y su vibrante escena artística, Miami atrae a millones de turistas cada año. Desde el Distrito Art Deco de South Beach hasta el bullicioso barrio de Little Havana, Miami es una mezcla perfecta de historia, diversión y multiculturalismo.
