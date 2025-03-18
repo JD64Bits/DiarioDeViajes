@@ -5,3 +5,6 @@
 
 ## Recomendaciones
 - Que hacer: Puedes ir al parque Nacional Natural Tayrona Que es uno de los parques mas conocidos en colombia, con playas paradisiacas como Cabo San Juan, La Piscina, y Playa Cristal.
+
+## Comidas tipicas
+- Algunas de sus comidas tipicas son: Arepa de huevo, Ceviche de camarones y el Arroz de coco.
